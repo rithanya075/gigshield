@@ -253,6 +253,8 @@ gigshield/
 ```
 
 ---
+Architecture Diagram:![gigshield_winning_architecture](https://github.com/user-attachments/assets/d9b1fba8-6d71-4fd3-9c99-a2f813496bd6)
+
 
 ## 🗓️ Development Plan
 
